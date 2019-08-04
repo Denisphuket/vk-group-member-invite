@@ -1,0 +1,4 @@
+node_modules
+.my-session
+test.js
+config.json
